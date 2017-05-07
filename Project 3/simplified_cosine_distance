@@ -1,0 +1,65 @@
+
+
+>>> embedding = np.array([[1.,1.,1.,1.],[200.,1.,200.,1.],[1.,1.,1.,1.]]) # our fully trained embedding lookup table. 3 (words in our total vocab) x 4 (neurons in the hidden layer) 
+>>> embedding
+array([[   1.,    1.,    1.,    1.],    # this whole row/vector represents word 0 in our vocab, note how similar the weights are to word 2. This is because they all settled on outputting similar words, i.e., word indexes
+       [ 200.,    1.,  200.,    1.],    # ... word 1 ...
+       [   1.,    1.,    1.,    1.]])   # ... word 2 ...
+
+>>> norm = sess.run(tf.sqrt(tf.reduce_sum(tf.square(embedding), 1, keep_dims=True))) # this looks at least like the bottom half of the cosines distance equation between two vectors, I'm still not sure where the top half (dot product) divided by the bottom half is
+>>> norm
+array([[   2.        ],
+       [ 282.84624799],
+       [   2.        ]])
+
+>>> normalized_embedding = embedding/norm
+>>> normalized_embedding
+array([[ 0.5       ,  0.5       ,  0.5       ,  0.5       ],  # this whole row/vector represents word 0 in our vocab, note how similar the (normalized) weights are to word 2
+       [ 0.70709794,  0.00353549,  0.70709794,  0.00353549],  # ... word 1 ...
+       [ 0.5       ,  0.5       ,  0.5       ,  0.5       ]]) # ... word 2 ...
+
+>>> valid_embedding = np.array([normalized_embedding[1], normalized_embedding[2], normalized_embedding[0]]) # look up words coming from a phrase in our normalized_embedding table, i.e., tf.nn.embedding_lookup, should this var be renamed to validation_lookup?
+>>> valid_embedding
+array([[ 0.70709794,  0.00353549,  0.70709794,  0.00353549], # 3 (words in this phrase) x 4 (neurons in the hidden layer, i.e., 4 features from an input layer)
+       [ 0.5       ,  0.5       ,  0.5       ,  0.5       ],
+       [ 0.5       ,  0.5       ,  0.5       ,  0.5       ]])
+
+>>> np.transpose(normalized_embedding)          # remember: this is the total vocab
+array([[ 0.5       ,  0.70709794,  0.5       ], # 4 (features from an input layer) x 3 (neurons in the hidden layer)
+       [ 0.5       ,  0.00353549,  0.5       ],
+       [ 0.5       ,  0.70709794,  0.5       ],
+       [ 0.5       ,  0.00353549,  0.5       ]])
+
+>>> similar = np.matmul(valid_embedding, np.transpose(normalized_embedding))
+>>> similar
+array([[ 0.71063343,  1.        ,  0.71063343], # 3 (outputs, i.e. words in this phrase) x 3 (neurons providing their estimate for weights associated with words in our vocab, the closer each weight is to one, the higher they are, and similar to each word/row)
+       [ 1.        ,  0.71063343,  1.        ],
+       [ 1.        ,  0.71063343,  1.        ]])
+
+
+>>> (similar[0, :]).argsort()
+array([0, 2, 1])
+
+>>> -similar[0,:]
+array([-0.71063343, -1.        , -0.71063343])
+>>> (-similar[0, :]).argsort() # argsort by default sorts indexes from lowest to highest, we get highest to lowest by adding a negative sign
+array([1, 0, 2])
+
+>>> top_k = 2 # grab the top 2 most similar words
+
+>>> (-similar[0, :]).argsort()[1:top_k+1]
+array([0, 2])
+
+>>> -similar[1, :]
+array([-1.        , -0.71063343, -1.        ])
+>>> (-similar[1, :]).argsort()
+array([0, 2, 1])
+>>> (-similar[1, :]).argsort()[1:top_k+1]
+array([2, 1])
+
+>>> -similar[2, :]
+array([-1.        , -0.71063343, -1.        ])
+>>> (-similar[2, :]).argsort()
+array([0, 2, 1])
+>>> (-similar[2, :]).argsort()[1:top_k+1]
+array([2, 1])
