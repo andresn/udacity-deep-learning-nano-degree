@@ -1,0 +1,1951 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"batc",
+				"batch_size\tparam"
+			],
+			[
+				"initi",
+				"initialize_all_variables\tfunction"
+			],
+			[
+				"json",
+				"jsonify"
+			],
+			[
+				"last",
+				"lastMax"
+			],
+			[
+				"profile",
+				"profile_this"
+			],
+			[
+				"tog",
+				"toggleLabelStyle"
+			],
+			[
+				"in",
+				"institutes"
+			],
+			[
+				"user",
+				"userReducer"
+			],
+			[
+				"redu",
+				"reducers"
+			],
+			[
+				"tweets",
+				"tweetsReducer"
+			],
+			[
+				"bead",
+				"beadType"
+			],
+			[
+				"beads",
+				"beadsLeft"
+			],
+			[
+				"aba",
+				"abacus2"
+			],
+			[
+				"ab",
+				"abacus2"
+			],
+			[
+				"inte",
+				"integers"
+			],
+			[
+				"onp",
+				"onPressButton"
+			],
+			[
+				"idea",
+				"ideaButtonTouchable"
+			],
+			[
+				"Gra",
+				"GraphQLString"
+			],
+			[
+				"next",
+				"nextCluesCompassBearing"
+			],
+			[
+				"ne",
+				"nextCluesCompassDirection"
+			],
+			[
+				"comp",
+				"compassDirection"
+			],
+			[
+				"set",
+				"setTrueHeading"
+			],
+			[
+				"true",
+				"trueHeading"
+			],
+			[
+				"wind",
+				"windowHeight"
+			],
+			[
+				"compass",
+				"compassStyle"
+			],
+			[
+				"curr",
+				"currentUsersPosition"
+			],
+			[
+				"stea",
+				"stealthMode"
+			],
+			[
+				"start",
+				"startUpdatingHeading"
+			],
+			[
+				"ma",
+				"magneticHeading"
+			],
+			[
+				"Nati",
+				"NativeModules"
+			],
+			[
+				"mag",
+				"magneticNorth"
+			],
+			[
+				"clueArrow",
+				"clueArrowHeight"
+			],
+			[
+				"clue",
+				"clueArrows"
+			],
+			[
+				"cur",
+				"currentUsersPosition"
+			],
+			[
+				"region",
+				"regionLongitude"
+			],
+			[
+				"anno",
+				"annotationsNeux"
+			],
+			[
+				"test",
+				"testPassed"
+			],
+			[
+				"efx",
+				"efxProps"
+			],
+			[
+				"vide",
+				"videoStyles"
+			],
+			[
+				"voic",
+				"voiceOnStandBy"
+			],
+			[
+				"mute",
+				"muteAllAudio"
+			],
+			[
+				"voice",
+				"voiceProps"
+			],
+			[
+				"critter",
+				"critter-found"
+			],
+			[
+				"window",
+				"windowHeight"
+			],
+			[
+				"voi",
+				"voices"
+			],
+			[
+				"video",
+				"videoPackage"
+			],
+			[
+				"get",
+				"getVideoSource"
+			],
+			[
+				"Game",
+				"GameLobby"
+			],
+			[
+				"app",
+				"appState"
+			],
+			[
+				"usrs",
+				"usersDayLevel"
+			],
+			[
+				"users",
+				"usersDayLevel"
+			],
+			[
+				"hunt",
+				"huntTimeout"
+			],
+			[
+				"total",
+				"totalSeconds"
+			],
+			[
+				"nex",
+				"nextPolyPoint"
+			],
+			[
+				"pro",
+				"progression"
+			],
+			[
+				"el",
+				"elapsedHuntSeconds"
+			],
+			[
+				"clock",
+				"clockUserIntoHunt"
+			],
+			[
+				"game",
+				"gameSeconds"
+			],
+			[
+				"center",
+				"centerMultiplier"
+			],
+			[
+				"walk",
+				"walkingContainerWidth"
+			],
+			[
+				"runn",
+				"runningContainerWidth"
+			],
+			[
+				"crikey",
+				"crikeyText"
+			],
+			[
+				"border",
+				"borderWidth"
+			],
+			[
+				"P",
+				"PersistenceHunterLogoSmall"
+			],
+			[
+				"na",
+				"navigateTo"
+			],
+			[
+				"new",
+				"newAvailableDay"
+			],
+			[
+				"workou",
+				"workoutIndex"
+			],
+			[
+				"mode",
+				"modeler"
+			],
+			[
+				"add",
+				"addLockStampAtIndex"
+			],
+			[
+				"mod",
+				"modelsDoneLoading"
+			],
+			[
+				"week",
+				"weekNumb"
+			],
+			[
+				"day",
+				"dayNumb"
+			],
+			[
+				"wee",
+				"weekNumb"
+			],
+			[
+				"button",
+				"buttonMap"
+			],
+			[
+				"days",
+				"daysAgo"
+			],
+			[
+				"Day",
+				"daysAgo"
+			],
+			[
+				"time",
+				"timeStamp"
+			],
+			[
+				"Days",
+				"daysAdded"
+			],
+			[
+				"monk",
+				"monkeyStampsLost"
+			],
+			[
+				"adj",
+				"adjustUsersDayLevel"
+			],
+			[
+				"ad",
+				"adjustedDayOfTheWeek"
+			],
+			[
+				"u",
+				"usersDayLevel"
+			],
+			[
+				"com",
+				"comeBackLater"
+			],
+			[
+				"tot",
+				"totalDays"
+			],
+			[
+				"fil",
+				"fillUpNextWeek"
+			],
+			[
+				"un",
+				"unlockNextDay"
+			],
+			[
+				"elapse",
+				"elapsedDaysSinceLastHunt"
+			],
+			[
+				"Text",
+				"TextInput"
+			],
+			[
+				"render",
+				"renderDay"
+			],
+			[
+				"crit",
+				"crittersSubRange"
+			],
+			[
+				"anim",
+				"animatedScoreIncrements"
+			],
+			[
+				"animated",
+				"animatedScoreWidth"
+			],
+			[
+				"anima",
+				"animatedScoreWidth"
+			],
+			[
+				"windo",
+				"windowHeight"
+			],
+			[
+				"Cri",
+				"CrikeyCard"
+			],
+			[
+				"text",
+				"textAlign"
+			],
+			[
+				"back",
+				"backgroundColor"
+			],
+			[
+				"map",
+				"mapView"
+			],
+			[
+				"current",
+				"currentAnnotation"
+			],
+			[
+				"annotat",
+				"annotations"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"an",
+				"annotationsNeux"
+			],
+			[
+				"annotations",
+				"annotationsNeux"
+			],
+			[
+				"ann",
+				"annotation"
+			],
+			[
+				"annot",
+				"annotationsNeux"
+			],
+			[
+				"bear",
+				"bearingArrow"
+			],
+			[
+				"objects",
+				"objectsSource"
+			],
+			[
+				"obj",
+				"objectsSource"
+			],
+			[
+				"poly",
+				"polyPoints"
+			],
+			[
+				"po",
+				"polyPoints"
+			],
+			[
+				"getA",
+				"getAnnotationRegistryIndex"
+			],
+			[
+				"padd",
+				"paddedCellVew"
+			],
+			[
+				"padded",
+				"paddedCell"
+			],
+			[
+				"sco",
+				"scoreCells"
+			],
+			[
+				"marg",
+				"marginLeft"
+			],
+			[
+				"Trans",
+				"transposeAnnotationsToScreen"
+			],
+			[
+				"ent",
+				"entityId"
+			],
+			[
+				"prxomi",
+				"proximityToEndVertex"
+			],
+			[
+				"entit",
+				"entityName"
+			],
+			[
+				"destroy",
+				"destroyAnnotation"
+			],
+			[
+				"event",
+				"eventType"
+			],
+			[
+				"margin",
+				"marginLeft"
+			],
+			[
+				"lat",
+				"latitude"
+			],
+			[
+				"reache",
+				"reachedEndOfJourney"
+			],
+			[
+				"fli",
+				"flightUntil"
+			],
+			[
+				"acc",
+				"acceleration"
+			],
+			[
+				"fl",
+				"flightUntil"
+			],
+			[
+				"random",
+				"randomInt"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Anaconda Python Builder",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"Traditional"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "zoom ",
+		"selected_items":
+		[
+			[
+				"zoom ",
+				"Origami: Zoom Current Pane"
+			],
+			[
+				"focus",
+				"Origami: Focus on Pane on the Left"
+			],
+			[
+				"destroy",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"clone pane ri\t",
+				"Origami: Clone File to Pane on the Right"
+			],
+			[
+				"creat pane righ",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"create pane righ",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"pane",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"preview ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"clone right",
+				"Origami: Clone File to Pane on the Right"
+			],
+			[
+				"create pane right",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"clon\t",
+				"Origami: Clone File to Pane on the Right"
+			],
+			[
+				"create pane",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"de",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"clone ri",
+				"Origami: Clone File to Pane on the Right"
+			],
+			[
+				"create",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"create pan",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"clone righ",
+				"Origami: Clone File to Pane on the Right"
+			],
+			[
+				"createpaner",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				"destr",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"dest",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"clone pane right",
+				"Origami: Clone File to Pane on the Right"
+			],
+			[
+				"cl",
+				"Origami: Clone File to Pane on the Right"
+			],
+			[
+				"create pane ri",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"create ri",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"pane bo",
+				"Origami: Create Pane Below"
+			],
+			[
+				"pane ri",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"create right",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"clone left",
+				"Origami: Clone File to Pane on the Left"
+			],
+			[
+				"clone lef",
+				"Origami: Clone File to Pane on the Left"
+			],
+			[
+				"des",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"clone pane ri",
+				"Origami: Clone File to Pane on the Right"
+			],
+			[
+				"clone r",
+				"Origami: Clone File to Pane on the Right"
+			],
+			[
+				"rig",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"clone pan",
+				"Origami: Clone File to Pane on the Right"
+			],
+			[
+				"clone rig",
+				"Origami: Clone File to Pane on the Right"
+			],
+			[
+				"create righ",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"clone",
+				"Origami: Clone File to Pane on the Right"
+			],
+			[
+				"creat",
+				"Origami: Create Pane on the Left"
+			],
+			[
+				"clone l",
+				"Origami: Clone File to Pane on the Left"
+			],
+			[
+				"pane r",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"pane right",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"pane rig",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"destr ri",
+				"Origami: Destroy Pane on the Right"
+			],
+			[
+				"cloneright",
+				"Origami: Clone File to Pane on the Right"
+			],
+			[
+				"cl ri",
+				"Origami: Clone File to Pane on the Right"
+			],
+			[
+				"right",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"destory cu",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"zoom",
+				"Origami: Zoom Current Pane"
+			],
+			[
+				"create rig",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"destory right",
+				"Origami: Destroy Pane on the Right"
+			],
+			[
+				"destory",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"destory ",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"new file",
+				"File: New File Relative to Current View"
+			],
+			[
+				"clonerigh",
+				"Origami: Clone File to Pane on the Right"
+			],
+			[
+				"clone ",
+				"Origami: Clone File to Pane on the Right"
+			],
+			[
+				"new",
+				"File: New Folder Relative to Current View"
+			],
+			[
+				"pane ",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"new fol",
+				"File: New Folder Relative to Current View"
+			],
+			[
+				"z",
+				"Origami: Zoom Current Pane"
+			],
+			[
+				"new folder",
+				"File: New Folder Relative to Current View"
+			],
+			[
+				"file renam",
+				"File: Rename"
+			],
+			[
+				"PANE",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remoa",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 600.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/andresn/dev/machine-learning/deep-learning/tv-script-generation"
+	],
+	"file_history":
+	[
+		"/Users/andresn/dev/machine-learning/deep-learning/tv-script-generation/problem_unittests.py",
+		"/Users/andresn/dev/machine-learning/deep-learning/tv-script-generation/sandbox.py",
+		"/Users/andresn/dev/machine-learning/deep-learning/tv-script-generation/ts_in_depth.py",
+		"/Users/andresn/dev/machine-learning/deep-learning/tv-script-generation/dlnd_tv_script_generation_full.py",
+		"/Users/andresn/dev/machine-learning/deep-learning/tv-script-generation/.sublime-project",
+		"/Users/andresn/dev/machine-learning/deep-learning/tv-script-generation/build_nn.py",
+		"/Users/andresn/dev/machine-learning/deep-learning/tv-script-generation/get_embed.py",
+		"/Users/andresn/dev/machine-learning/deep-learning/tv-script-generation/build_rnn.py",
+		"/Users/andresn/Desktop/py.py",
+		"/Users/andresn/Desktop/DLND Question",
+		"/Users/andresn/dev/machine-learning/udacity-deep-learning-nano-degree/Project 3/simplified_cosine_distance",
+		"/Users/andresn/Documents/Blitz/_pain points",
+		"/Users/andresn/Desktop/react_native.js",
+		"/Users/andresn/.profile",
+		"/Users/andresn/Desktop/swift.m",
+		"/Users/andresn/dev/PersistenceHunter/index.ios.js",
+		"/Users/andresn/dev/machine-learning/deep-learning/intro-to-rnns/Anna_KaRNNa.py",
+		"/Users/andresn/dev/machine-learning/deep-learning/intro-to-rnns/requirements.txt",
+		"/Users/andresn/dev/machine-learning/deep-learning/intro-to-rnns/environment.yml",
+		"/Users/andresn/dev/machine-learning/deep-learning/image-classification/environment.yml",
+		"/Users/andresn/dev/machine-learning/Project 2/intro-to-tensorflow-lab/projects/intro-to-tensorflow/environment.yml",
+		"/Users/andresn/Documents/Finances and Insurances/Covered Cali/Dental/Grevience/Grevience B.B.B. v.2",
+		"/Users/andresn/Documents/LaTeX_Templates/Math_Homework_Template.tex",
+		"/Users/andresn/dev/IdeaButton/index.ios.js",
+		"/Users/andresn/dev/machine-learning/udacity-deep-learning-nano-degree/.gitignore",
+		"/Users/andresn/dev/machine-learning/.gitignore",
+		"/Users/andresn/dev/machine-learning/Project 2/Optimizing Inefficiencies",
+		"/Users/andresn/dev/code-review-congress/house-bill/blah.md",
+		"/Users/andresn/dev/code-review-congress/house-bill/H.R.277-Repeal-ACA.md",
+		"/Users/andresn/dev/code-review-congress/.gitignore",
+		"/Users/andresn/dev/code-review-congress/house-bill/277.html",
+		"/Users/andresn/dev/code-review-congress/house-bill/227.txt",
+		"/Users/andresn/dev/code-review-congress/house-bill/227.md",
+		"/Users/andresn/dev/code-review-congress/README.md",
+		"/Users/andresn/Desktop/sh broke",
+		"/Users/andresn/dev/sample-project/main.c",
+		"/Users/andresn/Documents/Finances and Insurances/Covered Cali/Dental/Grevience/Grevience v.3. Yelp",
+		"/Users/andresn/Documents/Finances and Insurances/Covered Cali/Dental/Grevience/Grevience v.3.",
+		"/Users/andresn/dev/code-reviewer/build/manifest.json",
+		"/Users/andresn/dev/code-reviewer/static/manifest.json",
+		"/Users/andresn/dev/code-reviewer/.gitignore",
+		"/Users/andresn/dev/code-reviewer/README.md",
+		"/Users/andresn/dev/code-reviewer/dist/manifest.json",
+		"/Users/andresn/Desktop/dist/manifest.json",
+		"/Users/andresn/Desktop/dist/build/manifest.json",
+		"/Users/andresn/Documents/Finances and Insurances/Covered Cali/Dental/Grevience/Grevience v.3.Delta",
+		"/Users/andresn/Documents/Finances and Insurances/Covered Cali/Dental/Grevience/Grevience v.2.",
+		"/Users/andresn/Documents/Finances and Insurances/Dental/Grevience/Grevience",
+		"/Users/andresn/Desktop/I am self-employed and with a solid professional t",
+		"/Users/andresn/Desktop/I'm self-employed and a solid professional track r",
+		"/Users/andresn/dev/machine-learning/Project 1/my_answer.py",
+		"/Users/andresn/dev/machine-learning/Project 1/answer",
+		"/Users/andresn/dev/astra/models.py",
+		"/Users/andresn/dev/astra/tests/timeline_tests.py",
+		"/Users/andresn/dev/astra/resources/webhook.py",
+		"/Users/andresn/dev/astra/resources/utils.py",
+		"/Users/andresn/dev/astra/resources/timeline.py",
+		"/Users/andresn/dev/machine-learning/Project 1/data_prep_debug.py",
+		"/Users/andresn/dev/astra/resources/goals.py",
+		"/Users/andresn/dev/astra/resources/users.py",
+		"/Users/andresn/dev/astra/resources/deactivate.py",
+		"/Users/andresn/dev/astra/resources/historical_mock.json",
+		"/Users/andresn/dev/astra/resources/transactions.py",
+		"/Users/andresn/dev/machine-learning/Project 1/Backwards Propagation - Debug.py",
+		"/Users/andresn/dev/machine-learning/Project 1/Backwards Propagation - Prints.py",
+		"/Users/andresn/dev/machine-learning/Project 1/Implement Gradient Descent - Debug.py",
+		"/Users/andresn/dev/machine-learning/Project 1/sigmoid.py",
+		"/Users/andresn/dev/machine-learning/Project 1/binary_debug.csv",
+		"/Users/andresn/dev/machine-learning/Project 1/Implement Gradient Descent.py",
+		"/Users/andresn/Desktop/Agenda",
+		"/Users/andresn/.bash_profile",
+		"/Users/andresn/Desktop/J's",
+		"/Users/andresn/Documents/Blitz/Recruiting/Redux interview questions",
+		"/Users/andresn/dev/astra/Vagrantfile",
+		"/Users/andresn/dev/astra/app.yaml",
+		"/Users/andresn/dev/astra/requirements.txt",
+		"/Users/andresn/Documents/Blitz/PowerNotes/### Notes from Udayan's Session",
+		"/Users/andresn/Documents/Blitz/Astra/Agenda 2",
+		"/Users/andresn/Desktop/astra user info",
+		"/Users/andresn/dev/astra/main.py",
+		"/Users/andresn/dev/astra/client/node_modules/socket.io-client/lib/index.js",
+		"/Users/andresn/dev/astra/client/node_modules/socket.io-client/dist/socket.io.js",
+		"/Users/andresn/dev/astra/client/src/actions/types.js",
+		"/Users/andresn/dev/astra/client/src/actions/user.js",
+		"/Users/andresn/dev/astra/client/src/reducers/user.js",
+		"/Users/andresn/dev/astra/client/src/actions/__tests__/forms.js",
+		"/Users/andresn/dev/astra/resources/charts.py",
+		"/Users/andresn/dev/astra/client/src/actions/forms.js",
+		"/Users/andresn/dev/astra/config.py",
+		"/Users/andresn/dev/astra/client/src/selectors/forecast.js",
+		"/Users/andresn/dev/astra/lib/socketio/server.py",
+		"/Users/andresn/dev/astra/lib/engineio/socket.py",
+		"/Users/andresn/dev/astra/functional-testing/package.json",
+		"/Users/andresn/Desktop/debug stack ",
+		"/Users/andresn/dev/astra/client/src/components/insights/InsightsContainer/selectors.js",
+		"/usr/local/bin/vagrant",
+		"/usr/lib/google-cloud-sdk/platform/google_appengine/google/appengine/datastore/datastore_rpc.py",
+		"/Users/andresn/dev/astra/appengine_config.py",
+		"/Users/andresn/dev/astra/resources/accounts.py",
+		"/Users/andresn/dev/astra/tests/base_tests.py",
+		"/Users/andresn/dev/astra/main_test.py",
+		"/Users/andresn/dev/astra/client/src/selectors/account.js",
+		"/Users/andresn/dev/astra/lib/itsdangerous.py",
+		"/Users/andresn/dev/astra/client/src/config.js",
+		"/Users/andresn/dev/astra/vagrant/bootstrap.sh",
+		"/Users/andresn/dev/astra/vagrant/start_astra.sh",
+		"/Users/andresn/Documents/Blitz/User Testing",
+		"/Users/andresn/dev/astra/resources/profile.py",
+		"/Users/andresn/dev/astra/profiles/users.py.Login.post.profile.sort=cumtime",
+		"/Users/andresn/dev/astra/astra.datastore-journal",
+		"/Users/andresn/dev/astra/client/scripts/test.js",
+		"/Users/andresn/dev/astra/npm-debug.log",
+		"/Users/andresn/dev/astra/.gitignore",
+		"/Users/andresn/dev/astra/client/src/components/app/app.js",
+		"/Users/andresn/dev/astra/client/src/components/navBar/navBar.js",
+		"/Users/andresn/dev/astra/client/src/components/signup/signup.js",
+		"/Users/andresn/dev/astra/resoruces/accounts.py",
+		"/Users/andresn/dev/astra/client/src/actions/app.js",
+		"/Users/andresn/dev/astra/client/src/components/smartphoneOnly/index.js",
+		"/Users/andresn/dev/astra/client/src/index.js",
+		"/Users/andresn/dev/astra/client/src/components/smartphoneOnly/smartphoneOnly.js",
+		"/Users/andresn/dev/astra/README.md",
+		"/Users/andresn/dev/astra/client/src/actions/chartData.js",
+		"/Users/andresn/dev/astra/client/src/global.css",
+		"/Users/andresn/dev/BlitzSource-Frontend/webpack.config.js",
+		"/Users/andresn/dev/BlitzSource-Frontend/app/components/CandidateDetail.js",
+		"/Users/andresn/dev/BlitzSource-Frontend/test/components/CandidateDetail.test.js",
+		"/Users/andresn/dev/BlitzSource-Frontend/package.json"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"",
+			"entityName"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"inputs",
+			"input_data",
+			"get_init_cell",
+			"Multi",
+			"get_embed",
+			"Session",
+			"exports.FIRE",
+			"print",
+			"json",
+			"Goal",
+			"User",
+			"Goal",
+			"get",
+			"put",
+			"GoalViewContainer",
+			"GoalView",
+			"AccountCona",
+			"\"",
+			"astra_socket",
+			"emit",
+			"connect_account",
+			"socket",
+			"openWebsocket",
+			"emit",
+			"lookup",
+			"socket",
+			"UPDATE_USER_INFO",
+			"SOCKET_MESSAGES",
+			"\"",
+			"accounts_api",
+			"accounts_api_val",
+			"disable_accounts_api",
+			"values",
+			"100",
+			"current_entry",
+			"check_data",
+			"massage_data",
+			"checking",
+			"Sending",
+			"sending",
+			"emitting event",
+			"logger",
+			"emitting event \"astra_socket\" to all",
+			"user_token",
+			"logging",
+			"save_transaction",
+			"update_transactions",
+			"socket_emit",
+			"astra_socket",
+			"lastMaxX",
+			"lastMax",
+			"maxX",
+			"getEarliestDate",
+			"getDataLimits",
+			"getYLimits",
+			"getPeriodFilteredForecastData",
+			"getCompleteForecastData",
+			"getCompleteAccountsData",
+			"getForecastRange",
+			"getLatestDate",
+			"checking",
+			"getEarliestDate",
+			"data.historical.",
+			"signIn",
+			"session_token",
+			"connect",
+			"generate_balance_for_account",
+			"massage_data",
+			"generate_balance_for_account",
+			"generate_chart_data",
+			"massage_data",
+			"by_user_email",
+			"ndb.Model",
+			"Account",
+			"by_account_id",
+			"Transaction",
+			"query",
+			"cls",
+			"fetch",
+			"Account",
+			"GetAccountTransactions",
+			"update_transactions",
+			"update_account_balance",
+			"update_transaction",
+			")\n",
+			"update_account_balance",
+			"    \n",
+			"update_account_balance",
+			"update_transaction",
+			"update_transactions",
+			"update_account_balance",
+			"request failed",
+			"Institutes",
+			"request failed",
+			"\"request failed\"",
+			"all_args_provided",
+			"verify_auth_token",
+			"update_transactions",
+			"get_transactions",
+			"update_transactions",
+			"post",
+			"UPDATE_USER_INFO",
+			"updateFormField",
+			"validateForm",
+			"NavBarContainer",
+			"autoLogout",
+			"updateFormFields",
+			"dispatch",
+			"validateForm",
+			"user.",
+			"Home",
+			"\"",
+			"authChecked",
+			"profile.name",
+			".candidateDetail.item",
+			"candidate.profile.name",
+			"renderCandidateDetail",
+			"try",
+			"fjord",
+			"f",
+			"fjord",
+			"customer_company_logos_sprite",
+			"https://dteyv52hbg2at.cloudfront.net/images/publicsite/client_logos/customers_company_logos_sprite.png?v=6.0.16",
+			"https://dteyv52hbg2at.cloudfront.net/images/publicsite/client_logos/customer_company_logos_sprite.png",
+			"https://dteyv52hbg2at.cloudfront.net/images/publicsite/client_logos/",
+			"/images/",
+			"Daniel",
+			"daniel serrano"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"GoalViewContainer",
+			"credit",
+			"customers_company_logos_sprite",
+			"./assets/customer_company_logos_sprite.png",
+			"https://dteyv52hbg2at.cloudfront.net/images/",
+			"this.props.data",
+			"usersDayOfTheWeek",
+			"week",
+			"'",
+			"clue",
+			"clues",
+			"",
+			"MapType",
+			"mapType",
+			"resetTotalElapsedDistances",
+			"crittersSubRange",
+			"this.state.historyHash",
+			"this.state.historyStencil",
+			"ritter",
+			"RITTER",
+			"ritter",
+			"addDaysToWeek",
+			"MyApp",
+			"'",
+			"successCallback",
+			"reactToUsersChangeInPosition",
+			"this",
+			"this.existingCriter",
+			"this.timeStamps.clockedCriterAtRest",
+			"this.timeStamps.clockedCriterOnTheRun",
+			"this.timeStamps.clockedCriterIntoHunt",
+			"this.timeStamps.clockedIntoHunt",
+			"this.timeStamps.clockedIntoGame",
+			"kill",
+			"existingCriter",
+			"criterExists",
+			"critersRange",
+			"gameType",
+			"usersProximityInMeters",
+			"entityName",
+			"generateAnnotationIndex",
+			".currentHealth",
+			"this.currentHealth",
+			"TEST_USERS_ORIGIN",
+			"TEST_ORIGIN",
+			"healthPerSprint",
+			"getType",
+			"usersCurrentPosition",
+			"criter",
+			"currentVertexToEndVertex",
+			"priorVertexToCurrentVertex",
+			"Current",
+			"buildCritersJourney",
+			"decoratePath",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.556453918463,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 217.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 421.0
+	},
+	"pinned_build_system": "",
+	"project": ".sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"dlnd_tv_script_generation_full.py"
+			],
+			[
+				"web",
+				"resources/webhook.py"
+			],
+			[
+				"mod",
+				"models.py"
+			],
+			[
+				"time",
+				"resources/timeline.py"
+			],
+			[
+				"transaction",
+				"resources/transactions.py"
+			],
+			[
+				"historic",
+				"resources/historical_mock.json"
+			],
+			[
+				"dea",
+				"resources/deactivate.py"
+			],
+			[
+				"timelin",
+				"resources/timeline.py"
+			],
+			[
+				"con",
+				"client/public/email/confirm.html"
+			],
+			[
+				"init",
+				"resources/__init__.py"
+			],
+			[
+				"main",
+				"main.py"
+			],
+			[
+				"forms",
+				"client/src/actions/forms.js"
+			],
+			[
+				"server",
+				"lib/engineio/server.py"
+			],
+			[
+				"form",
+				"client/src/actions/forms.js"
+			],
+			[
+				"models",
+				"models.py"
+			],
+			[
+				"users",
+				"resources/users.py"
+			],
+			[
+				"charts",
+				"resources/charts.py"
+			],
+			[
+				"tran",
+				"resources/transactions.py"
+			],
+			[
+				"socket.py",
+				"lib/engineio/socket.py"
+			],
+			[
+				"server.py",
+				"lib/socketio/server.py"
+			],
+			[
+				"selec",
+				"client/src/components/insights/InsightsContainer/selectors.js"
+			],
+			[
+				"transa",
+				"resources/transactions.py"
+			],
+			[
+				"actionuser",
+				"client/src/actions/user.js"
+			],
+			[
+				"app",
+				"appengine_config.py"
+			],
+			[
+				"fore",
+				"client/src/selectors/forecast.js"
+			],
+			[
+				"webhook",
+				"resources/webhook.py"
+			],
+			[
+				"charts.py",
+				"resources/charts.py"
+			],
+			[
+				"model",
+				"models.py"
+			],
+			[
+				"account",
+				"client/src/selectors/account.js"
+			],
+			[
+				"accounts.",
+				"resources/accounts.py"
+			],
+			[
+				"trnsac",
+				"resources/transactions.py"
+			],
+			[
+				"its",
+				"lib/itsdangerous.py"
+			],
+			[
+				"accounts",
+				"resources/accounts.py"
+			],
+			[
+				"form.js",
+				"client/src/actions/forms.js"
+			],
+			[
+				"componentapp",
+				"client/src/components/app/app.js"
+			],
+			[
+				"navbar",
+				"client/src/components/navBar/navBar.js"
+			],
+			[
+				"app.js",
+				"client/src/actions/app.js"
+			],
+			[
+				"actions/user.j",
+				"client/src/actions/user.js"
+			],
+			[
+				"reducersuser",
+				"client/src/reducers/user.js"
+			],
+			[
+				"user.js",
+				"client/src/actions/user.js"
+			],
+			[
+				"actionsform",
+				"client/src/actions/forms.js"
+			],
+			[
+				"reducers/user",
+				"client/src/reducers/user.js"
+			],
+			[
+				"user",
+				"client/src/actions/user.js"
+			],
+			[
+				"axis",
+				"src/components/chartComponents/axisLine.js"
+			],
+			[
+				"timep",
+				"src/components/timePeriod/timePeriod.js"
+			],
+			[
+				"index",
+				"index.ios.js"
+			],
+			[
+				"instru",
+				"src/components/Instructions.js"
+			],
+			[
+				"medi",
+				"src/classes/Mediator.js"
+			],
+			[
+				"critter",
+				"src/classes/Critter.js"
+			],
+			[
+				"mediat",
+				"src/classes/Mediator.js"
+			],
+			[
+				"map",
+				"src/utils/MapUtil.js"
+			],
+			[
+				"even",
+				"src/pages/EventType.js"
+			],
+			[
+				"contro",
+				"src/components/ControlPad.js"
+			],
+			[
+				"crik",
+				"src/components/CrikeyCard.js"
+			],
+			[
+				"butt",
+				"src/components/Buttons.js"
+			],
+			[
+				"game",
+				"src/pages/GameView.js"
+			],
+			[
+				"splash",
+				"src/pages/SplashScreen.js"
+			],
+			[
+				"media",
+				"src/classes/Mediator.js"
+			],
+			[
+				"gam",
+				"src/pages/GameView.js"
+			],
+			[
+				"spl",
+				"src/pages/SplashScreen.js"
+			],
+			[
+				"clue",
+				"src/classes/Clue.js"
+			],
+			[
+				"ins",
+				"src/components/Instructions.js"
+			],
+			[
+				"spla",
+				"src/pages/SplashScreen.js"
+			],
+			[
+				"med",
+				"src/classes/Mediator.js"
+			],
+			[
+				"anim",
+				"src/components/AnimatedScoreIncrement.js"
+			],
+			[
+				"eig",
+				"src/programs/eight-week-beginners.js"
+			],
+			[
+				"clu",
+				"src/classes/Clue.js"
+			],
+			[
+				"cri",
+				"src/classes/Critter.js"
+			],
+			[
+				"bison",
+				"src/classes/Bison.js"
+			],
+			[
+				"crit",
+				"src/classes/Critter.js"
+			],
+			[
+				"apputi",
+				"src/utils/AppUtil.js"
+			],
+			[
+				"test",
+				"src/classes/TestUser.js"
+			],
+			[
+				"bob",
+				"src/pages/BobblesIntro.js"
+			],
+			[
+				"mediator",
+				"src/classes/Mediator.js"
+			],
+			[
+				"instr",
+				"src/components/Instructions.js"
+			],
+			[
+				"splah",
+				"src/pages/SplashScreen.js"
+			],
+			[
+				"mode",
+				"src/classes/Modeler.js"
+			],
+			[
+				"crike",
+				"src/components/CrikeyCard.js"
+			],
+			[
+				"ei",
+				"src/programs/eight-week-beginners.js"
+			],
+			[
+				"score",
+				"src/components/Score.js"
+			],
+			[
+				"gameview",
+				"src/pages/GameView.js"
+			],
+			[
+				"gamelo",
+				"src/pages/GameLobby.js"
+			],
+			[
+				"cr",
+				"src/classes/Critter.js"
+			],
+			[
+				"entit",
+				"src/classes/Entity.js"
+			],
+			[
+				"crt",
+				"src/classes/Critter.js"
+			],
+			[
+				"e",
+				"src/programs/eight-week-beginners.js"
+			],
+			[
+				"eigh",
+				"src/programs/eight-week-beginners.js"
+			],
+			[
+				"sc",
+				"src/components/Score.js"
+			],
+			[
+				"ani",
+				"src/components/AnimatedScoreIncrement.js"
+			],
+			[
+				"appu",
+				"src/utils/AppUtil.js"
+			],
+			[
+				"bo",
+				"src/pages/BobblesIntro.js"
+			],
+			[
+				"bobb",
+				"src/pages/BobblesIntro.js"
+			],
+			[
+				"bobbl",
+				"src/pages/BobblesIntro.js"
+			],
+			[
+				"sp",
+				"src/pages/SplashScreen.js"
+			],
+			[
+				"kr",
+				"src/components/CrikeyCard.js"
+			],
+			[
+				"mo",
+				"src/classes/Modeler.js"
+			],
+			[
+				"mdoel",
+				"src/classes/Modeler.js"
+			],
+			[
+				"week",
+				"src/programs/eight-week-beginners.js"
+			],
+			[
+				"ga",
+				"src/mocks/full-gmaps-api-data.js"
+			],
+			[
+				"apputil",
+				"src/utils/AppUtil.js"
+			],
+			[
+				"tile",
+				"src/pages/TileBoard.js"
+			],
+			[
+				"me",
+				"src/classes/Mediator.js"
+			],
+			[
+				"inde",
+				"index.ios.js"
+			],
+			[
+				"spal",
+				"src/pages/SplashScreen.js"
+			],
+			[
+				"crikey",
+				"src/components/CrikeyCard.js"
+			],
+			[
+				"animate",
+				"src/components/AnimatedScoreIncrement.js"
+			],
+			[
+				"crk",
+				"src/components/CrikeyCard.js"
+			],
+			[
+				"k",
+				"src/components/CrikeyCard.js"
+			],
+			[
+				"eve",
+				"src/pages/EventType.js"
+			],
+			[
+				"ent",
+				"src/classes/Entity.js"
+			],
+			[
+				"sco",
+				"src/components/Score.js"
+			],
+			[
+				"maputil",
+				"src/utils/MapUtil.js"
+			],
+			[
+				"til",
+				"src/pages/TileBoard.js"
+			],
+			[
+				"entity",
+				"src/classes/Entity.js"
+			],
+			[
+				"enti",
+				"src/classes/Entity.js"
+			],
+			[
+				"en",
+				"src/components/EntityAnnotation.js"
+			],
+			[
+				"mock",
+				"src/mocks/full-gmaps-api-data.js"
+			],
+			[
+				"an",
+				"src/components/EntityAnnotation.js"
+			],
+			[
+				"or",
+				"src/classes/Oryx.js"
+			],
+			[
+				"b",
+				"src/classes/Bison.js"
+			],
+			[
+				"anno",
+				"src/components/EntityAnnotation.js"
+			],
+			[
+				"critt",
+				"src/classes/Critter.js"
+			],
+			[
+				"testuser",
+				"src/classes/TestUser.js"
+			],
+			[
+				"testu",
+				"test/TestUtil.js"
+			],
+			[
+				"mapu",
+				"src/utils/MapUtil.js"
+			],
+			[
+				"annot",
+				"src/components/EntityAnnotation.js"
+			],
+			[
+				"gamev",
+				"src/pages/GameView.js"
+			],
+			[
+				"mediato",
+				"src/classes/Mediator.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 351.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
