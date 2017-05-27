@@ -12,6 +12,7 @@ var
 
 # Don't upload local data to Floyd
 data
+
 checkpoint
 checkpoints
 *.tar.gz
