@@ -12,8 +12,6 @@ sdist
 var
 
 # Don't upload local data to Floyd
-checkpoint
-checkpoints
 *.tar.gz
 *.data-*
 *.index
